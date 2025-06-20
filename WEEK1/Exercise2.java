@@ -66,5 +66,8 @@ public class Main {
 }
 
 
-
+// OUTPUT:
+// Opening a Word Document.
+// Opening a PDF Document.
+// Opening an Excel Document.
 
