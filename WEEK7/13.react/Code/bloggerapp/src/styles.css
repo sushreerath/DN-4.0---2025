@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section {
+  flex: 1;
+  padding: 10px;
+}
+
+.section:not(:last-child) {
+  border-right: 3px solid green;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+strong {
+  display: block;
+  margin-top: 10px;
+}
